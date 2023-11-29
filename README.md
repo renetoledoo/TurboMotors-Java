@@ -1,4 +1,4 @@
-# Turbo Motors
+![image](https://github.com/renetoledoo/TurboMotors-Java/assets/101533439/f270f720-c46c-4f10-88c8-80ac61768115)# Turbo Motors
 
 Bem-vindo ao Turbo Motors, um projeto incrível construído com Java Spring framework, Thymeleaf, MySQL, Bootstrap, JavaScript e outras tecnologias poderosas.
 
@@ -12,6 +12,26 @@ Bem-vindo ao Turbo Motors, um projeto incrível construído com Java Spring fram
 - :zap: **JavaScript**: Utilizado para adicionar interatividade e animações ao front end.
 - :chart_with_upwards_trend: **DataTables**: Biblioteca para manipulação avançada de tabelas HTML.
 - :sparkles: **SweetAlert**: Biblioteca para criar modais de alerta bonitos e responsivos.
+
+
+
+## Funcionalidades Principais
+
+![image](https://github.com/renetoledoo/TurboMotors-Java/assets/101533439/95ad85ea-dd52-4280-b2b5-e3b19bf8ab41)
+
+
+### Cadastro de Carros, Tipos e Marcas
+
+O Turbo Motors simplifica o processo de cadastro de carros, tipos e marcas, proporcionando uma interface intuitiva e responsiva. Utilizando o framework Bootstrap, garantimos a consistência visual e a adaptabilidade a diferentes dispositivos.
+
+### Listagem Dinâmica com DataTables
+
+A listagem dinâmica de carros é facilitada pela integração da biblioteca DataTables. Isso permite uma visualização eficiente e interativa dos dados, com recursos de ordenação, pesquisa e paginação para uma experiência de usuário aprimorada.
+
+### Impressão de Relatórios com JasperSoft
+
+Para atender às necessidades de relatórios detalhados, o Turbo Motors incorpora o JasperSoft. Essa poderosa ferramenta possibilita a geração de relatórios profissionais, oferecendo aos usuários a capacidade de imprimir informações específicas sobre carros, tipos e marcas.
+
 
 ## Configuração do Ambiente
 
